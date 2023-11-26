@@ -14,6 +14,7 @@ module.exports = {
       token = token.split(' ').pop().trim();
     }
 
+    // if no token, return an error response
     if (!token) {
       return res.status(400).json({ message: 'You have no token!' });
     }

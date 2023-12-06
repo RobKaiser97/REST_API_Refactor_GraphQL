@@ -1,4 +1,4 @@
-# Literary Explorer
+# REST_API_Refactor_GraphQL
 ## Contents
 - [Overview](#overview)
 - [Setup](#setup)

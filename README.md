@@ -22,7 +22,7 @@ Once running, your screen should display the main interface similar to this snap
 ## How-To
 Prefer an online version? Access the hosted version on Heroku: [Heroku App Link](https://quiet-headland-70635-b417348c3082.herokuapp.com/)
 
-Watch this instructional video for a walkthrough: [Tutorial Video]()
+Watch this instructional video for a walkthrough: [Tutorial Video](https://drive.google.com/file/d/1EkqrdG0MUwKgwGspey07W47zWt7m_RVX/view)
 
 ## Legal Info
 ![MIT License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
